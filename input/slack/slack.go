@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/micro/cli"
+	"github.com/divisionone/cli"
 	"github.com/divisionone/go-bot/input"
 	"github.com/nlopes/slack"
 )
